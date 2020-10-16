@@ -165,4 +165,4 @@ github_<nombre>_<codigo>.txt y subirlo a moodle
 
 
 def getGithubUrl():
-    return ""
+    return "https://github.com/PamelaAbrego/Parcial.git"
